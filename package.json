@@ -1,0 +1,22 @@
+{
+  "name": "gofile.js",
+  "version": "1.0.0",
+  "description": "Implement of gofile.io API including secret api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeongdesu/gofile.js.git"
+  },
+  "keywords": [
+    "gofile"
+  ],
+  "author": "aeongdesu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aeongdesu/gofile.js/issues"
+  },
+  "homepage": "https://github.com/aeongdesu/gofile.js#readme"
+}
